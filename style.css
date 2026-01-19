@@ -15,7 +15,7 @@ body {
 
 main {
   background-color: hsl(330, 100%, 98%);
-  margin-top: 5em;
+  margin-top: 2em;
   padding: 2em;
   border-radius: 2em;
   width: 45vw;
@@ -143,8 +143,4 @@ main > img {
   .Preparation-time li {
     padding: 0.3em;
   }
-<<<<<<< HEAD
 }/*# sourceMappingURL=style.css.map */
-=======
-}/*# sourceMappingURL=syle.css.map */
->>>>>>> 4cbf11bc0372addaf5c60ea971b467b34b33b3f3
